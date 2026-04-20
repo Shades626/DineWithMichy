@@ -75,15 +75,12 @@ h1.logo{
     padding: 12px 30px;
 }
 /* Hero section */
-.hero_section{
-    justify-content: space-between;
-    align-items: center;
-}
 .hero_section div{
     display: inline-block;
 }
 .hero_section{
     display: flex;
+    align-items: center;
     justify-content: space-between;
     padding-left: 120px;
     padding-right: 130px;
